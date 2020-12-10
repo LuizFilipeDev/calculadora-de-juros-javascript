@@ -1,0 +1,69 @@
+body{
+    background-color:#ff9999;
+}
+#titulo{
+    background-color:#ff3333;
+    margin-bottom: 5%; 
+}
+#valorProduto{
+    font-size: 25px;
+}
+#sel1{
+    font-size: 25px;
+}
+#valorEntrada{
+    font-size: 25px;
+}
+#valorProduto:focus{
+    background-color:#ffff80;
+}
+#sel1:focus{
+    background-color:#ffff80;
+}
+#valorEntrada:focus{
+    background-color:#ffff80;
+}
+#botao button{
+    background-color: #ff3333;
+    width: 200px;
+    height: 60px;
+    font-size:30px;
+    align-items: center;
+}
+#botao{
+    padding-bottom: 15px;
+}
+#resultadoNaTela h1{
+    color:#cc0000;
+    font-size: 50px;
+    padding-bottom:5px;
+}
+h6{
+    background-color:#ff3333;
+    color:white;
+    margin:0;
+    padding-bottom:6px;
+}
+#valorProdutoTexto, #resultadoNaTelaTexto{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#parcelas{
+    padding-top: 10px;
+}
+#resultadoTexto{
+    background-color: #ff8080;
+}
+#valorProdutoTexto{
+    background-color: #ff8080;
+    margin-bottom:2%;
+}
+#PlanoPagamentoText{
+    background-color: #ff8080;
+}
+#tempoCarencia{
+    padding-top: 10px;
+}
+.custom-control-label:before{
+    background:#ff8080 !important;
+}
