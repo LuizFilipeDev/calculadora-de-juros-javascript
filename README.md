@@ -18,6 +18,10 @@ Aplicação simples para calcular juros, com ou sem entrada e também com a opç
 
 `Calcular`: Botão para calcular o juros baseado nos campos acima. 
 
-## Sobre
+## Observações
 
 Esta aplicação foi desenvolvida com base nas necessidades de uma loja, podendo assim ser alterado os índices e também adicionado novas fórmulas se necessário.
+
+## Sobre
+
+Foram usadas as seguintes tecnologias: HTML, CSS, JavaScript e Bootstrap.
