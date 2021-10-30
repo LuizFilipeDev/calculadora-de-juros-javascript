@@ -17,3 +17,7 @@ Aplicação simples para calcular juros, com ou sem entrada e também com a opç
 `60 dias de carência`: Valor a ser adicionado no juros pelos 60 dias de carência. 
 
 `Calcular`: Botão para calcular o juros baseado nos campos acima. 
+
+### Sobre
+
+Esta aplicação foi desenvolvida com base nas necessidades de uma loja, podendo assim ser alterado os índices e também adicionado novas fórmulas se necessário.
