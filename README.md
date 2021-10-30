@@ -24,4 +24,4 @@ Esta aplicação foi desenvolvida com base nas necessidades de uma loja, podendo
 
 ## Sobre
 
-Foram usadas as seguintes tecnologias: HTML, CSS, JavaScript e Bootstrap.
+Aplicação desenvolvida utilizando as seguintes tecnologias: HTML, CSS, JavaScript e Bootstrap.
